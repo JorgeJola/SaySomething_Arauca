@@ -13,10 +13,10 @@ def spcomments():
     return render_template('SpatialComments.html')
 
 DB_CONFIG={
-    'host':'dpg-cvr7f2vgi27c738n24q0-a',
-    'dbname':'user_spatial_comments',
-    'user':'jorgeandresjola',
-    'password':'VI2TORlvj8WPUzxqeQwsdCOfIzkj2t10',
+    'host':'dpg-d0tlt8adbo4c739r85bg-a',
+    'dbname':'database_saysomething',
+    'user':'database_saysomething_user',
+    'password':'KTRcFLFsi4zBwZTfeMX15aUZl7m9GYZZ',
     'port': 5432 
 }
 # Generate the connection to the PostgreSQL database
